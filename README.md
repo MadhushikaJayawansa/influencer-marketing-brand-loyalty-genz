@@ -55,7 +55,7 @@ The survey findings were also presented through a <a href="https://datastudio.go
 
 ## 2. Statistical Analysis Using Python
 
-Further statistical analysis was conducted using Python in<a href="https://colab.research.google.com/drive/1Ws_oB_yGzPgLdPRbTAe5Bch1_874-d99?usp=sharing">Google Colab</a>
+Further statistical analysis was conducted using Python in <a href="https://colab.research.google.com/drive/1Ws_oB_yGzPgLdPRbTAe5Bch1_874-d99?usp=sharing">Google Colab</a>
 
 ### 2.1 Reliability Analysis
 
