@@ -148,7 +148,9 @@ The responses also suggest that influencer endorsements alone may not be suffici
 The dataset was collected independently through a <a href="[url](https://docs.google.com/forms/d/e/1FAIpQLSeGAI5hgPVmWAegnkn0iGcuWGXjiu3fp2mXrrLmbXBNnTxC1Q/viewform?usp=sharing&ouid=104972425654608126632)">Google Forms survey</a> as part of my final-year university research project.
 
 Initial responses: 48
+
 Initial dataset size: 48 rows × 15 columns
+
 Complete cases used in correlation and regression: 46
 
 The survey included demographic questions, social media usage, influencer-related consumer behaviour, Likert-scale statements, brand-switching behaviour, and open-ended questions
