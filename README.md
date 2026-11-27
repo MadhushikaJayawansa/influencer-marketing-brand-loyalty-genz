@@ -72,17 +72,12 @@ The three statements represented separate independent variables in the research 
 
 Spearman's rank correlation was used to examine the relationships between the three independent variables and brand-switching behaviour.
 
-| Predictor                         | Coefficient | Odds Ratio | P-value |
-
+| Predictor                         | Coefficient | Odds Ratio | P-value |
 |-----------------------------------|------------:|-----------:|--------:|
+| Trust in Sponsorship Transparency |       0.233 |      1.263 |   0.478 |
+| Sponsored Post Authenticity*      |      -0.581 |      0.559 |   0.057 |
+| Community Engagement              |       0.392 |      1.480 |   0.217 |
 
-| Trust in Sponsorship Transparency |       0.233 |      1.263 |   0.478 |
-
-| Sponsored Post Authenticity*      |      -0.581 |      0.559 |   0.057 |
-
-| Community Engagement              |       0.392 |      1.480 |   0.217 |
-
-  
 
 At the 5% significance level, there was insufficient statistical evidence to reject any of the three null hypotheses.
 
