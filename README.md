@@ -72,16 +72,72 @@ The three statements represented separate independent variables in the research 
 
 Spearman's rank correlation was used to examine the relationships between the three independent variables and brand-switching behaviour.
 
+| Independent Variable              | Spearman's rho | P-value |
+|-----------------------------------|---------------:|--------:|
+| Trust in Sponsorship Transparency |          0.113 |   0.453 |
+| Sponsored Post Authenticity*      |         -0.130 |   0.389 |
+| Community Engagement              |          0.189 |   0.208 |
+
+Interpretation:
+
+Trust in sponsorship transparency showed a very weak positive relationship with brand switching.
+
+Sponsored post authenticity showed a very weak negative relationship with brand switching.
+
+Community engagement showed a very weak positive relationship with brand switching.
+
+None of these relationships was statistically significant at the 5% level.
+
+Note: The authenticity variable was measured using the negatively worded statement, "Sponsored posts feel less authentic than regular content." A higher score therefore represents stronger agreement that sponsored posts feel less authentic.
+
+### 2.3 Regression Analysis
+
+Exploratory ordinal logistic regression was performed to examine the relationship between the three independent variables and the ordinal brand-switching outcome.
+
 | Predictor                         | Coefficient | Odds Ratio | P-value |
 |-----------------------------------|------------:|-----------:|--------:|
 | Trust in Sponsorship Transparency |       0.233 |      1.263 |   0.478 |
 | Sponsored Post Authenticity*      |      -0.581 |      0.559 |   0.057 |
 | Community Engagement              |       0.392 |      1.480 |   0.217 |
 
+Model Information:
+
+Model: Ordinal Logistic Regression
+
+Observations: 46
+
+Log-likelihood: -58.480
+
+AIC: 131.0
+
+BIC: 143.8
+
+Model convergence: Successful
+
+#### Interpretation:
+
+None of the independent variables demonstrated a statistically significant relationship with brand-switching behaviour at the 5% significance level.
+
+The perceived authenticity variable had a p-value of 0.057, which was close to, but above, the significance threshold. This result should not be interpreted as statistically significant.
+
+Note: The odds ratios describe the estimated odds of being in a higher brand-switching category. The authenticity predictor represents agreement with the negatively worded statement about sponsored posts feeling less authentic.
+
+The regression analysis is exploratory. The sample size was relatively small, and the higher brand-switching categories contained few responses. The proportional-odds assumption was not independently tested.
+
+### 2.4 Hypothesis Testing
+
+The hypotheses examined the relationships between the three independent variables and brand-switching behaviour.
+
+| Hypothesis | Predictor                         | P-value | Decision           |
+|------------|-----------------------------------|--------:|--------------------|
+| H1         | Trust in Sponsorship Transparency |   0.478 | Fail to reject H01 |
+| H2         | Sponsored Post Authenticity      |   0.057 | Fail to reject H02 |
+| H3         | Community Engagement             |   0.217 | Fail to reject H03 |
 
 At the 5% significance level, there was insufficient statistical evidence to reject any of the three null hypotheses.
 
 Note: The hypothesis statements were formulated from the three independent variables in the research framework.
+
 
 ## 3. Open-Ended Response Analysis
 
@@ -107,8 +163,6 @@ Brand-Value Misalignment: A mismatch between a brand's values and consumers' per
 Inauthentic Promotion: Overly aggressive or untrustworthy promotional content.
 
 Product quality and negative reviews appeared repeatedly in the responses.
-
-  
 
 ### 3.2 Factors That Could Strengthen Brand Loyalty
 
